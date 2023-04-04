@@ -171,7 +171,7 @@ END ;;
 DELIMITER ;
 ```
 
-The second code block creates a MySQL event called updatedata that schedules the execution of the update_all stored procedure to run every day at the same time. 
+This code block creates a MySQL event called updatedata that schedules the execution of the update_all stored procedure to run every day at the same time. 
 Events are similar to cron jobs in Unix systems and are used to schedule the execution of SQL statements at specific times or intervals.
 
 ```
