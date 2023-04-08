@@ -1,5 +1,8 @@
 # Implementing Consumptions database to MySQL
+
 This script is implementing a MySQL database for an Electrical Energy Analysis web application built with React and Node.js.
+
+Project link: https://github.com/skrbyrm/Electrical-Energy-Analysis--React-Nodejs--Project.git
 
 Overall, this script sets up a MySQL database for an energy analysis web application, with tables for storing raw consumption data and aggregated monthly, weekly and hourly consumption data. 
 It also includes stored procedures for calculating the monthly, weekly and hourly consumption data and aggregating it for all meter IDs.
